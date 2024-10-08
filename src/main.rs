@@ -5,7 +5,7 @@ use fltk::{app, button::Button, frame::Frame, input::{self, Input}, prelude::*, 
 #[allow(unused_mut)]
 fn main() {
     let app = app::App::default();
-    let mut wind = Window::new(100, 100, 400, 300, "RustyTyper");
+    let mut wind = Window::new(100, 100, 400, 130, "RustyTyper");
     let widget_theme = WidgetTheme::new(ThemeType::HighContrast);
     widget_theme.apply();
 
