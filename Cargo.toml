@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 enigo = { version = "0.2", features = ["wayland"] }
 fltk = "1.4.34"
+fltk-theme = "0.7"
