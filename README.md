@@ -26,3 +26,6 @@ cargo run
 4. Click gen
 5. After 2 seconds the text will start to be typed
 6. Have fun! 
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/8e623344-73c1-44c5-9993-1d81ab274737)
