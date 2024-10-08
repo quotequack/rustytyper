@@ -1,0 +1,8 @@
+[package]
+name = "rustytyper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enigo = { version = "0.2", features = ["wayland"] }
+fltk = "1.4.34"
